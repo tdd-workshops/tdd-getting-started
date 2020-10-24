@@ -4,7 +4,7 @@
 
 ![](./tdd-flow.gif)
 
-*Source: <http://luizricardo.org/wordpress/wp-content/upload-files/2014/05/tdd_flow.gif>*
+*(Source: <http://luizricardo.org/wordpress/wp-content/upload-files/2014/05/tdd_flow.gif>)*
 
 ## TDD Rules
 
@@ -19,4 +19,37 @@
 
 ## How much should we test?
 
+### Goals of Test Suite
+
+- Tests should be thorough
+- Tests should be stable
+- Tests should be fast
+- Tests should be few (minimal)
+
+### Test Driven Development
+
+- We use test cases to guide the design of our code
+- 2 approaches to testing - **Inside Out** and **Outside In**
+    - **Outside In** - Use integration tests to guide you
+    - **Inside Out** - Build & test individual components, integrate later
+
+### Ratio of Test Types (Testing Pyramid)
+
+![](./test-automation-pyramid.jpg)
+
+*(Source: <https://qatestlab.com/resources/knowledge-center/test-automated-pyramid/>)*
+
+### Flow of Message Types
+
+![](./test-command-query.jpg)
+
+![](./test-message-types.jpg)
+
+![](./test-flow-of-messages.jpg)
+
+*(Source: "The Magic Tricks of Testing" - Sandi Metz  <http://confreaks.tv/videos/railsconf2013-the-magic-tricks-of-testing>)*
+
+## References:
+
+- <https://martinfowler.com/articles/practical-test-pyramid.html>
 - <https://speakerdeck.com/miccheng/how-much-should-we-test>
