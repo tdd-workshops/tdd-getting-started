@@ -4,10 +4,10 @@
 
 1. Make sure you have the following software installed on your computer:
 
-    - [Zoom Client](https://zoom.us/download#client_4meeting)
+    - [Zoom Client](https://zoom.us/download#client_4meeting) (Please ensure you have at least version 5.3 or higher)
 
 2. Please make sure you have an account with these services:
-    - A Google account that can open [Google Docs](https://docs.google.com/).
+    - [Miro](https://miro.com/) for virtual sticky notes.
     - [GitHub](https://github.com/) for sharing source code.
     - [Gitpod.io](https://www.gitpod.io/) for remote collaboration.
 
@@ -19,6 +19,7 @@
 
     - [Cyber-Dojo](https://cyber-dojo.org/)
     - [Gitpod.io](https://www.gitpod.io/)
+        - Install the Gitpod GitHub App (<https://github.com/apps/gitpod-io>) as well.
 
 3. For **doodling** and **drawing**, we will be using:
 
@@ -30,13 +31,12 @@ If in doubt, do contact the organizers via email.
 
 Timing | Details
 :----- | :-----
-09:40-10:00 | Facilitators to standby
-10:00-10:20 | Welcome
-10:20-10:50 | Code Kata Round 1 (30 mins)
-10:50-11:05 | **_Break_**
-11:05-11:30 | Retrospective
-11:30-12:15 | Code Kata Round 2 (45 mins)
-12:15-12:30 | **_Break_**
+09:00-10:00 | Facilitators to standby & do tech check <br>- See final team arrangement <br>- Prep Cyber-Dojo & GitPod instance
+10:00-10:10 | Welcome Activity
+10:10-10:30 | Introduction to Coding Dojo (Michael)
+10:30-11:00 | **Code Kata Round 1 (40 mins)**
+11:10-11:40 | Retrospective (30 mins)
+11:40-12:30 | **Code Kata Round 2 (50 mins)**
 12:30-13:00 | Round up
 
 ## Code Kata
@@ -58,3 +58,4 @@ We would be attempting the [Fizz Buzz Kata](https://codingdojo.org/kata/FizzBuzz
 Simple web app with a login form. The Kata is to introduce the participants to something more realistic - a new feature to the app (ie. implement password length validation). This will introduce the participants to the idea of **test driven development** and **code refactoring**.
 
 - [NodeJS](https://github.com/tdd-workshops/tdd-lab-login-form-nodejs)
+- [Ruby on Rails](https://github.com/tdd-workshops/tdd-lab-login-form-ruby-rails)

@@ -4,11 +4,12 @@
 
 1. Make sure you have the following software installed on your computer:
 
-    - [Zoom Client](https://zoom.us/download#client_4meeting)
+    - [Zoom Client](https://zoom.us/download#client_4meeting) (Please ensure you have at least version 5.3 or higher)
 
 2. Please make sure you have an account with these services:
-    - A Google account that can open [Google Docs](https://docs.google.com/).
+    - [Miro](https://miro.com/) for virtual sticky notes.
     - [GitHub](https://github.com/) for sharing source code.
+    - [Gitpod.io](https://www.gitpod.io/) for remote collaboration.
 
 ## Collaboration Tools
 
@@ -19,7 +20,7 @@ We will have facilitators who can guide you in operating these tools on the day 
 2. For **remote coding** with the facilitators online, we will be using:
 
     - [Cyber-Dojo](https://cyber-dojo.org/)
-
+    - [Gitpod.io](https://www.gitpod.io/)
 
 3. For **doodling** and **drawing**, we will be using:
 
@@ -31,11 +32,10 @@ If in doubt, do contact the organizers via email.
 
 Timing | Details
 :----- | :-----
-10:00-10:20 | Welcome
-10:20-10:50 | Code Kata Round 1 (30 mins)
-10:50-11:05 | **_Break_**
-11:05-11:30 | Retrospective
-11:30-12:15 | Code Kata Round 2 (45 mins)
-12:15-12:30 | **_Break_**
+10:00-10:10 | Welcome Activity
+10:10-10:30 | Introduction to Coding Dojo
+10:30-11:00 | **Code Kata Round 1 (40 mins)**
+11:10-11:40 | Retrospective (30 mins)
+11:40-12:30 | **Code Kata Round 2 (50 mins)**
 12:30-13:00 | Round up
 
