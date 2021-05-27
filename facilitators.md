@@ -50,7 +50,7 @@ We would be attempting the [Fizz Buzz Kata](https://codingdojo.org/kata/FizzBuzz
 3. Select **"Fizz Buzz"** in the **"choose a problem"** selection box.
 4. Click on **"next"**.
 5. Select your assigned programming language and test-framework.
-6. Clikc on **"next"**.
+6. Click on **"next"**.
 7. Start coding.
 
 ### Round 2: Login Form
