@@ -1,4 +1,4 @@
-# Participant Pre-Workshop Preparation
+# Participant Pre-Workshop Preparation (Online)
 
 ## Pre-Requisite
 
@@ -28,7 +28,7 @@ We will have facilitators who can guide you in operating these tools on the day 
 
 If in doubt, do contact the organizers via email.
 
-## Workshop Schedule (1 December 2020)
+## Workshop Schedule
 
 Timing | Details
 :----- | :-----

@@ -1,4 +1,4 @@
-# Facilitators Pre-Workshop Preparation
+# Facilitators Pre-Workshop Preparation (Online Only)
 
 ## Pre-Requisite
 
@@ -27,7 +27,7 @@
 
 If in doubt, do contact the organizers via email.
 
-## Workshop Schedule (1 December 2020)
+## Workshop Schedule (3 hours)
 
 Timing | Details
 :----- | :-----
@@ -59,3 +59,5 @@ Simple web app with a login form. The Kata is to introduce the participants to s
 
 - [NodeJS](https://github.com/tdd-workshops/tdd-lab-login-form-nodejs)
 - [Ruby on Rails](https://github.com/tdd-workshops/tdd-lab-login-form-ruby-rails)
+- [Python with Flash](https://github.com/tdd-workshops/tdd-lab-login-form-python-flask)
+- [Java with Spring MVC](https://github.com/tdd-workshops/tdd-lab-login-form-java-spring-mvc)

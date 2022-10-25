@@ -9,5 +9,11 @@
 
 ## Pre-Workshop Preparation
 
-- [Participants](./participants.md)
-- [Facilitators](./facilitators.md)
+### In Person
+
+- [Participants](./participants_in_person.md)
+- [Facilitators](./facilitators_in_person.md)
+### Online
+
+- [Participants](./participants_online.md)
+- [Facilitators](./facilitators_online.md)
