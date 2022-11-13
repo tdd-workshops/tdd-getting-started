@@ -47,8 +47,9 @@ If in doubt, do contact the organizers via email.
 
 Timing | Details
 :----- | :-----
+09:45-10:00 | Registration
 10:00-10:20 | Welcome Activity & Introduction to Coding Dojo (Michael)
-10:20-10:50 | **Code Kata Exercise 1 (30 mins)**
-10:50-11:00 | Break
-11:00-11:40 | **Code Kata Exercise 2 (40 mins)**
+10:20-10:40 | **Code Kata Demo (20 mins)**
+10:40-11:20 | **Code Kata Exercise 1 (40 mins) - Pair-Programming**
+11:20-11:40 | **Code Kata Exercise 2 (20 mins) - Mob-Programming**
 11:40-12:00 | Retrospective & Round up (20 mins)
